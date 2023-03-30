@@ -74,6 +74,7 @@ collection_order    :
     "Web3.0",
     "Metaverse",
     "Digital-Human",    
+    "Others",
   ]
   
 collections:
@@ -100,32 +101,43 @@ collections:
   Big-Data:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "DT - 大数据"
   Cloud-Computing:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "CC - 云计算"
   Telecommunication-Media-Technology:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "TMT - 数字新媒体"
   Blockchain-Technology:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "BT - 区块链"   
   Web3.0:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "Web3.0 - 下一代互联网"    
   Metaverse:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "元宇宙"
   Digital-Human:
     output          : true
     permalink       : /:collection/:title/
+    sort_by         : date
     alias           : "数字人"
-    
+  Others:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+    alias           : "琐碎杂烩"    
     
     
 # 3. Comment settings（disqus.com）
