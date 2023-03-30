@@ -6,7 +6,7 @@ comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: ""
+title: "欢迎来到煌兄の部落阁！"
 author: ""
 encrypted_text: true
 permalink: /
