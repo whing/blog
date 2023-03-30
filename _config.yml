@@ -27,7 +27,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 
 collection_order    : 
   [
-    "ai",
+    "人工智能",
     "dt",
     "it",
     "physics",
