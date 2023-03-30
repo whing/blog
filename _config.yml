@@ -6,7 +6,7 @@ baseurl            : "/blog"
 permalink           : /:title/
 description         : "这是一份来自凡人的成长笔记。"
 markdown            : kramdown
-statement           : "Welcome to my Bolg."
+statement           : ""
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
