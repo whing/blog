@@ -28,12 +28,12 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "artificial_intelligence",
-    "dt",
-    "it",
-    "physics",
-    "biology",
-    "finance",
-    "physics",
+    "Big-Data",
+    "Cloud_Native",
+    "Metaverse",
+    "Digital Human",
+    "Web3.0",
+    "IoT",
     "my_notes",
     "portfolio",
   ]
@@ -83,7 +83,7 @@ collections:
     permalink       : /:collection/:title/
     sort_by         : date
     alias           : "人工智能"
-  dt:
+  Big-Data:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
@@ -97,7 +97,11 @@ collections:
     output          : true
     permalink       : /:collection/:title/
     alias           : "图册"
-
+  Web3.0:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "Web3.0"
+    
 
 # 3. Comment settings（disqus.com）
 disqus_username     : akiritsu
