@@ -13,21 +13,12 @@
     <meta content="{{ desc }}" name="description"/>
     <!-- referer for 3rd-part images-->
     <meta content="no-referrer" name="referrer"/>
-    <!-- title --> <!--
+    <!-- title -->
     <title>
         {% if page.title %}
             {{ page.title | escape }}
         {% else %}
             {{ site.title | escape }}
-        {% endif %}
-    </title> -->
-    
-    <title>
-        煌兄の部落阁
-        {% if site.title %}
-            {{ page.title | site.title }}
-        {% else %}
-            {{ page.title | escape }}
         {% endif %}
     </title>
     
