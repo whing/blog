@@ -27,10 +27,10 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 
 collection_order    : 
   [
-    "Artificial Intelligence",
+    "Artificial-Intelligence",
     "Telecommunication,Media,Technology",
     "Big-Data",
-    "Cloud_Native",
+    "Cloud-Computing",
     "Metaverse",
     "Digital Human",
     "Web3.0",
@@ -74,12 +74,12 @@ collection_order    :
 #    output          : true
     
 collections:
-  it:   
+  Cloud-Computing:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "互联网"
-  Artificial Intelligence:
+    alias           : "云计算"
+  Artificial-Intelligence:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
