@@ -6,13 +6,13 @@ comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: "欢迎来到煌兄の部落阁！"
+title: "欢迎来到煌兄の博客！"
 author: ""
 encrypted_text: true
 permalink: /
 ---
 
-# WH-Blog：煌兄の部落阁
+# WH-Blog：煌兄部落阁
 
 <br>
 > pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
