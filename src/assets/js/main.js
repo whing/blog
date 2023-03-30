@@ -42,7 +42,8 @@ function toggle_maximize() {
         ctner.style.height = "100%";
         ctner.style.maxWidth = "100%";
         if (document.getElementById("mxmz_text")) {
-            document.getElementById("mxmz_text").innerHTML = "Restore";
+            // document.getElementById("mxmz_text").innerHTML = "Restore";
+            document.getElementById("mxmz_text").innerHTML = "正常视图";
         }
         ctner_state = 1;
     } else if (ctner_state == 1) {
@@ -51,7 +52,8 @@ function toggle_maximize() {
         ctner.style.height = "97%";
         ctner.style.maxWidth = "1350px";
         if (document.getElementById("mxmz_text")) {
-            document.getElementById("mxmz_text").innerHTML = "Maximize";
+            // document.getElementById("mxmz_text").innerHTML = "Maximize";
+            document.getElementById("mxmz_text").innerHTML = "全屏视图";
         }
         ctner_state = 0;
     }
