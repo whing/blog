@@ -11,7 +11,8 @@
               <a class="header_btn" onclick="open_collection_list()">
                 <i class="fa btn_icon fa-bars">
                   {% if page.btn_text != false %}
-                  <p class="btn_text">Archives</p>
+                  <!-- <p class="btn_text">Archives</p> -->
+                  <p class="btn_text">目录</p>
                   {% endif %}
                 </i>
               </a>
@@ -31,12 +32,13 @@
               <a class="header_btn" id="mxmz_btn" onclick="toggle_maximize()">
                 <i class="fa btn_icon fa-window-maximize">
                   {% if page.btn_text != false %}
-                  <p class="btn_text" id="mxmz_text">Maximize</p>
+                  <!-- <p class="btn_text" id="mxmz_text">Maximize</p> -->
+                  <p class="btn_text" id="mxmz_text">全屏</p>
                   {% endif %}
                 </i>
               </a>
               {% endif %}
-              <!-- access token -->
+              <!-- access token --><!--
               {% if page.encrypted_text == true %}
               <a class="header_btn" id="acs_btn" onclick="apply_token()">
                 <i class="fa btn_icon fa-key">
@@ -50,7 +52,7 @@
                 cols="8"
                 id="acs_tkn"
                 rows="1"
-              ></textarea>
+              ></textarea> -->
               {% endif %}
             </li>
             <!-- right header -->
