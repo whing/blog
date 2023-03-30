@@ -24,22 +24,6 @@ permalink: /
 - Supports formula insertion with `MathJax`.
 
 
-
-- Supports code highlight with `Rouge`.
-
-```python
-arr = [10, 7, 8, 9, 1, 5]
-n = len(arr)
-quickSort(arr,0,n-1)
-print ("Sorted array is:")
-for i in range(n):
-    print ("%d" %arr[i]),
-```
-
-- Decrypt and encrypt text (access token: 233):
-  - secret msg example:
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-
 ## Download and Documentation
 
 [**pRoJEct VeXEd README (Github)**](https://github.com/akiritsu/pRoJEct-VeXEd)
