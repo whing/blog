@@ -27,7 +27,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 
 collection_order    : 
   [
-    "artificial intelligence",
+    "artificial_intelligence",
     "dt",
     "it",
     "physics",
@@ -78,7 +78,7 @@ collections:
     permalink       : /:collection/:title/
     sort_by         : date
     alias           : "互联网"
-  artificial intelligence:
+  artificial_intelligence:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
