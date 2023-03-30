@@ -1,12 +1,12 @@
 # 1. Site Settings
-title               : 煌兄博客
-owner               : "DeerRIDER"
+title               : 煌兄の部落阁
+owner               : "Vic Woo"
 url                : "https://www.whing.cn"
 baseurl            : "/blog"
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "这是一份来自凡人的成长笔记。"
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Welcome to my Bolg."
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
@@ -84,16 +84,16 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
+email               : "vic.woo@vip.163.com" 
 linkedin            : 
-github              : "just-test" 
+github              : "vic9527" 
 gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
-twitter             : "just-test"
-facebook            : "just-test"
+website             : "https://whing.cn"
+twitter             : 
+facebook            : 
 instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
+youtube             : 
+steam               : 
 weibo               :
       
 # 6. Where things are
