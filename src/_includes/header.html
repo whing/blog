@@ -7,12 +7,23 @@
             <!-- left header -->
             <li class="li_left">
               <!-- open collection tree -->
+              
+              {% if page.home_btn != false %}
+              <a class="header_btn" href="{{ site.url }}{{ site.baseurl }}">
+                <i class="fa btn_icon fa-home">
+                  {% if page.btn_text != false %}
+                  <p class="btn_text">首页</p>
+                  {% endif %}
+                </i>
+              </a> 
+              {% endif %}
+              
               {% if page.collection_list != false %}
               <a class="header_btn" onclick="open_collection_list()">
                 <i class="fa btn_icon fa-bars">
                   {% if page.btn_text != false %}
                   <!-- <p class="btn_text">Archives</p> -->
-                  <p class="btn_text">文章目录</p>
+                  <p class="btn_text">目录</p>
                   {% endif %}
                 </i>
               </a>
@@ -25,15 +36,15 @@
                   <p class="btn_text">Home</p>
                   {% endif %}
                 </i>
-              </a> -->
-              {% endif %}
+              </a> 
+              {% endif %} -->
               <!-- maximize -->
               {% if page.maximize != false %}
               <a class="header_btn" id="mxmz_btn" onclick="toggle_maximize()">
                 <i class="fa btn_icon fa-window-maximize">
                   {% if page.btn_text != false %}
                   <!-- <p class="btn_text" id="mxmz_text">Maximize</p> -->
-                  <p class="btn_text" id="mxmz_text">全屏视图</p>
+                  <p class="btn_text" id="mxmz_text">全屏</p>
                   {% endif %}
                 </i>
               </a>
