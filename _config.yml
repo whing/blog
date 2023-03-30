@@ -28,6 +28,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "Artificial Intelligence",
+    "Telecommunication,Media,Technology",
     "Big-Data",
     "Cloud_Native",
     "Metaverse",
@@ -101,6 +102,11 @@ collections:
     output          : true
     permalink       : /:collection/:title/
     alias           : "Web3.0"
+  Telecommunication,Media,Technology:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "TMT(数字新媒体)"
+    
     
 
 # 3. Comment settings（disqus.com）
