@@ -25,20 +25,6 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 #    "portfolio",
 #  ]
 
-collection_order    : 
-  [
-    "Artificial-Intelligence",
-    "Telecommunication,Media,Technology",
-    "Big-Data",
-    "Cloud-Computing",
-    "Metaverse",
-    "Digital Human",
-    "Web3.0",
-    "IoT",
-    "my_notes",
-    "portfolio",
-  ]
-
 #collections:
 #  math:   
 #    output          : true
@@ -72,43 +58,76 @@ collection_order    :
 #    alias           : "My Notes"
 #  posts:
 #    output          : true
-    
+
+
+
+collection_order    : 
+  [
+    "Artificial-Intelligence",
+    "Computer-Science",
+    "Information-Technology",
+    "Internet-of-Things",
+    "Big-Data",
+    "Cloud-Computing",
+    "Telecommunication-Media-Technology",
+    "Blockchain-Technology",
+    "Web3.0",
+    "Metaverse",
+    "Digital-Human",    
+  ]
+  
 collections:
-  Cloud-Computing:   
+  Artificial-Intelligence:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "云计算"
-  Artificial-Intelligence:
+    alias           : "AI - 人工智能"
+  Computer-Science:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "人工智能"
+    alias           : "CS - 计算机"
+  Information-Technology:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+    alias           : "IT - 互联网"
+  Internet-of-Things:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+    alias           : "IoT - 物联网"
   Big-Data:
     output          : true
     permalink       : /:collection/:title/
-    sort_by         : date
-    alias           : "大数据"
-  algo:
+    alias           : "DT - 大数据"
+  Cloud-Computing:
     output          : true
     permalink       : /:collection/:title/
-    sort_by         : date
-    alias           : "算法"
-  album:
+    alias           : "CC - 云计算"
+  Telecommunication-Media-Technology:
     output          : true
     permalink       : /:collection/:title/
-    alias           : "图册"
+    alias           : "TMT - 数字新媒体"
+  Blockchain-Technology:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "BT - 区块链"   
   Web3.0:
     output          : true
     permalink       : /:collection/:title/
-    alias           : "Web3.0"
-  Telecommunication,Media,Technology:
+    alias           : "Web3.0 - 下一代互联网"    
+  Metaverse:
     output          : true
     permalink       : /:collection/:title/
-    alias           : "TMT(数字新媒体)"
+    alias           : "元宇宙"
+  Digital-Human:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "数字人"
     
     
-
+    
 # 3. Comment settings（disqus.com）
 disqus_username     : akiritsu
 
