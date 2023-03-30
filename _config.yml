@@ -27,7 +27,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 
 collection_order    : 
   [
-    "artificial_intelligence",
+    "Artificial Intelligence",
     "Big-Data",
     "Cloud_Native",
     "Metaverse",
@@ -78,7 +78,7 @@ collections:
     permalink       : /:collection/:title/
     sort_by         : date
     alias           : "互联网"
-  artificial_intelligence:
+  Artificial Intelligence:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
