@@ -14,26 +14,7 @@ permalink: /
 
 <!-- ![](https://www.whing.cn/research/I.jpg) -->
 
-<style>
-.profile-picture {
-        height: 85px;
-        width: 85px;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 50%;
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-        @media (max-width: 480px) {
-            img {
-                margin-top: -5px;
-            }
-        }
-    }
-</style>
-<img class="profile-picture" src="I.jpg">
+<img style="border-radius: 50%; height: 85px; width: 85px; position: relative; margin: -10px 0 0 15px;" src="I.jpg">
 
 
 
