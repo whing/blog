@@ -12,10 +12,18 @@ encrypted_text: true
 permalink: /
 ---
 
+![](https://www.whing.cn/research/I.jpg)
+
 # WH-Blog：煌兄部落阁
 
-<br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+## Github项目收藏
+
+- [AI-research-tools](https://github.com/bighuang624/AI-research-tools)
+- [AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+## Notion文档分析
+- [AIGC文章合集](https://laced-stem-b75.notion.site/AIGC-7c978a104d7441928fa446c8e60ddae6)
 
 ## Features
 
@@ -57,3 +65,13 @@ normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google
 | Nov 15, 2018 | v1.99 LTS | 4kb     | Irreversible damage    |
 
 
+## 其他
+- [万字长文：ChatGPT能否成为互联网后下一个系统性机会？](https://mp.weixin.qq.com/s/7mmcbAPZqYqnOH4d4g7CGw)
+- 游戏引擎 浅入浅出」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/cpp-game-engine-book
+- https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md
+- https://codeantenna.com/a/sivXxSOqNa#BVH_12
+- https://github.com/huanngzh/unitypackages/tree/master/3_BVHParser
+- [作为一个研究生，有哪些你直呼好用的科研神器？ - 李大雄的回答 - 知乎](https://www.zhihu.com/question/484596211/answer/2436872231)
+- http://lovebusu.com/7960/
+- [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- 万代南梦宫研究所在GitHub上免费开源分享了42万帧“人体3D运动数据”，GIthub地址 github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset，包含不同风格下的日常、格斗、舞蹈以及走路、奔跑和挥手等动作。所有数据均由万代南梦宫动捕工作室收集并进行后期处理。
