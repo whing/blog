@@ -12,7 +12,8 @@ encrypted_text: true
 permalink: /
 ---
 
-<1-- ![](https://www.whing.cn/research/I.jpg) -->
+<!-- ![](https://www.whing.cn/research/I.jpg) -->
+
 <style>
 .profile-picture {
         height: 85px;
