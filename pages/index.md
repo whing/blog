@@ -14,7 +14,7 @@ permalink: /
 
 <!-- ![](https://www.whing.cn/research/I.jpg) -->
 
-<img style="border-radius: 50%; height: 85px; width: 85px; position: relative; margin: -10px 0 0 15px;" src="I.jpg">
+<img style="border-radius: 50%; height: 100px; width: 100px; position: relative; margin: -10px 0 0 15px;" src="https://www.whing.cn/research/I.jpg">
 
 
 
