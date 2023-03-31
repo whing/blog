@@ -22,8 +22,15 @@ permalink: /
 - [AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-## Notion文档分析
+## Notion文档收藏
 - [AIGC文章合集](https://laced-stem-b75.notion.site/AIGC-7c978a104d7441928fa446c8e60ddae6)
+
+## 飞书文档收藏
+- [AIGC 学习精华内容汇总](https://nujuo8y1qx.feishu.cn/docx/RleadAwrAo4O1FxhuoGcDV86nBe)
+- [ChatGPT 学习精华内容汇总](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
+- [Vega AI 创作平台](https://hf514kmkak.feishu.cn/docx/T0Dldi73eo4NHNxvEs9cqh0Pngf)
+- [ChatGPT风口相关，希望给你一点启发（AI启发指南）](https://bw54wz1lzj.feishu.cn/wiki/wikcnmOsRhabP0oP8AXvlnIBHPb)
+- [2023年AI绘画应用教程](https://bw54wz1lzj.feishu.cn/wiki/wikcnv2WQe8zyammt5Bg7dTii0f)
 
 ## Features
 
