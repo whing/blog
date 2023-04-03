@@ -20,6 +20,12 @@ permalink: /
 
 # WH-Blog：煌兄部落阁
 
+| 自述文件      |
+| :----------- | 
+| 有时候，相遇是缘分，亦是劫数；这世上，有命中注定，就有在劫难逃；当这两者出现在同一人身上时，那个人，既是你命中注定的缘分，亦是你躲不过的劫数。 | 
+
+
+
 ## Github项目收藏
 
 - [AI-research-tools](https://github.com/bighuang624/AI-research-tools)
@@ -44,46 +50,6 @@ permalink: /
 ## Web收藏
 - [Discord-OpenAI](https://discord.com/invite/openai)
 - [AI News, Curated & Explained by AI | Emergent Mind](https://www.emergentmind.com/)
-
-## Features
-
-- Highly customizable with user-friendly hacker-like design.
-- Easy to gather your notes or portfolios with multiple collection design.
-- Supports formula insertion with `MathJax`.
-
-
-## Download and Documentation
-
-[**pRoJEct VeXEd README (Github)**](https://github.com/akiritsu/pRoJEct-VeXEd)
-
-[Download ZIP files](https://codeload.github.com/akiritsu/pRoJEct-VeXEd/zip/master)
-
-[中文自述及使用教程](https://akiritsu.github.io/pRoJEct-VeXEd/readme-zhcn/)
-
-## More Samples
-
-### Font style and link
-
-normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google.com)
-
-### List
-
-1. ordered list item 1
-   1. sublist
-      1. subsublist
-
-- unordered list
-  - sublist
-
-### Table
-
-| Date         | Version   | Size    | Comment                |
-| :----------- | :-------- | :------ | :--------------------- |
-| Nov 11, 2018 | v2.14c    | 240 kb  | No irreversible damage |
-| Nov 12, 2018 | v2.14c    | 1230 kb | No irreversible damage |
-| Nov 13, 2018 | v2.14c    | 12kb    | No irreversible damage |
-| Nov 15, 2018 | v1.99 LTS | 4kb     | Irreversible damage    |
-
 
 ## 其他
 - [万字长文：ChatGPT能否成为互联网后下一个系统性机会？](https://mp.weixin.qq.com/s/7mmcbAPZqYqnOH4d4g7CGw)
