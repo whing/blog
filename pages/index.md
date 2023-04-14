@@ -46,6 +46,7 @@ permalink: /
 - [Vega AI 创作平台](https://hf514kmkak.feishu.cn/docx/T0Dldi73eo4NHNxvEs9cqh0Pngf)
 - [ChatGPT风口相关，希望给你一点启发（AI启发指南）](https://bw54wz1lzj.feishu.cn/wiki/wikcnmOsRhabP0oP8AXvlnIBHPb)
 - [2023年AI绘画应用教程](https://bw54wz1lzj.feishu.cn/wiki/wikcnv2WQe8zyammt5Bg7dTii0f)
+- [2023年最全AI绘画应用教程](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
 
 ## Web收藏
 - [Discord-OpenAI](https://discord.com/invite/openai)
